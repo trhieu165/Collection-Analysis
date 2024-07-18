@@ -1,14 +1,14 @@
 # Collection-Analysis
 ## I. INTRODUCTION 
 ### 1. Dataset
-#### Dataset: OS Collection Performance
-#### The dataset includes one table containing information on debt collection by partners, organized by month for the years 2020 and 2021.
+- #### Dataset: OS Collection Performance
+- #### The dataset includes one table containing information on debt collection by partners, organized by month for the years 2020 and 2021.
 ### 2. Data Table
 ![image](https://github.com/user-attachments/assets/11ae85e5-9234-4cad-b933-75e1625f0a97)
 ### 3. Business Questions
-#### Which partners are the most efficient at debt recovery, and what factors contribute to their success?
-#### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
-#### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
+- #### Which partners are the most efficient at debt recovery, and what factors contribute to their success?
+-#### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
+- #### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
 ## II. DESIGN THINKING
 ### Five steps of design thinking
 #### 1. Empathize
