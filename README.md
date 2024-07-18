@@ -12,21 +12,17 @@
 ## II. DESIGN THINKING
 ### Five steps of design thinking
 #### 1. Empathize
-![image](https://github.com/user-attachments/assets/7695bfe3-4ecd-4ee0-a11d-7e9d6d0d9fa3)
-
+![image](https://github.com/user-attachments/assets/ea161f07-1134-46bc-b8ba-8f9a1be2355e)
 #### 2. Define point of view
-
+![image](https://github.com/user-attachments/assets/cd9a0b83-2812-4f30-babc-06e1c4f86298)
 #### 3. Ideate
-
+![image](https://github.com/user-attachments/assets/1a94695e-494d-492d-b78f-11c0f3e3bd9d)
 #### 4. Protoype
-
+![image](https://github.com/user-attachments/assets/a4fe6c5f-fe4d-4fb1-8cf6-e945c2dc2f10)
 #### 5. Review
+![image](https://github.com/user-attachments/assets/ce9c2405-4f0d-40ce-9a59-489126e45310)
 
-
-## III. ISSUE TREE
-![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/3e0f3e7b-dd90-4318-bf37-a6d1a1b73bac)
-
-## IV. VISUALIZATION
+## III. VISUALIZATION
 #### 1. Customer Overview
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4af9b15a-760c-4600-856b-ad1df6d976b3)
 #### 2. Customer Detail
