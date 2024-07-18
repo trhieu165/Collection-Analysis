@@ -1,8 +1,8 @@
 # Collection-Analysis
 ## I. INTRODUCTION 
 ### 1. Dataset
-#### Dataset: OS Collection Performance
-#### The dataset includes one table containing information on debt collection by partners, organized by month for the years 2020 and 2021.
+_ #### Dataset: OS Collection Performance
+_ #### The dataset includes one table containing information on debt collection by partners, organized by month for the years 2020 and 2021.
 ### 2. Data Table
 ![image](https://github.com/user-attachments/assets/11ae85e5-9234-4cad-b933-75e1625f0a97)
 ### 3. Business Questions
