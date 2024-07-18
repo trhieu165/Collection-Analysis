@@ -9,6 +9,7 @@
 - #### Which partners are the most efficient at debt recovery, and what factors contribute to their success?
 - #### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
 - #### What strategies can the Head of Collection at Bank X implement to improve debt recovery rates and enhance cooperation with its partners?
+  
 ## II. DESIGN THINKING
 ### Five steps of design thinking
 #### 1. Empathize
@@ -24,11 +25,12 @@
 
 ## III. VISUALIZATION
 #### 1. Collection Performance
-![image](https://github.com/user-attachments/assets/b6a237e6-c285-4fab-bfe2-d6288e04e580)
+![image](https://github.com/user-attachments/assets/a782a2b9-4b98-4804-a652-697e56328e52)
 #### 2. Debt Collected Analysis
 ![image](https://github.com/user-attachments/assets/4b765299-b51e-45ac-a646-eb6c9e6fe039)
 #### 3. Company Performance
 ![image](https://github.com/user-attachments/assets/1e59e66e-ed01-4220-9d8a-e852c6664d71)
 
-## V. INSIGHTS & RECOMMENDATIONS
-![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/933ac299-1d4f-418b-8869-7a46e8dcc0fa)
+## IV. INSIGHTS & RECOMMENDATIONS
+![image](https://github.com/user-attachments/assets/54bdbf07-4ee2-4067-a69f-5bd189f03041)
+
