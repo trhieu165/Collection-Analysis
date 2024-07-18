@@ -1,4 +1,4 @@
-# Collection-Analysis
+![image](https://github.com/user-attachments/assets/6096f76f-4189-4b5e-b1a8-c188d38123f0)# Collection-Analysis
 ## I. INTRODUCTION 
 ### 1. Dataset
 - #### Dataset: OS Collection Performance
@@ -23,12 +23,12 @@
 ![image](https://github.com/user-attachments/assets/ce9c2405-4f0d-40ce-9a59-489126e45310)
 
 ## III. VISUALIZATION
-#### 1. Customer Overview
-![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4af9b15a-760c-4600-856b-ad1df6d976b3)
-#### 2. Customer Detail
-![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4df3cf6d-58b1-4368-9670-1ce47d1878a2)
-#### 3. Churn Reasons
-![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/3147ad9b-9d68-4856-9a38-c47b2626f9a7)
+#### 1. Collection Performance
+![image](https://github.com/user-attachments/assets/b6a237e6-c285-4fab-bfe2-d6288e04e580)
+#### 2. Debt Collected Analysis
+![image](https://github.com/user-attachments/assets/4b765299-b51e-45ac-a646-eb6c9e6fe039)
+#### 3. Company Performance
+![image](https://github.com/user-attachments/assets/1e59e66e-ed01-4220-9d8a-e852c6664d71)
 
 ## V. INSIGHTS & RECOMMENDATIONS
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/933ac299-1d4f-418b-8869-7a46e8dcc0fa)
