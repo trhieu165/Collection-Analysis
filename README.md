@@ -7,8 +7,8 @@
 ![image](https://github.com/user-attachments/assets/11ae85e5-9234-4cad-b933-75e1625f0a97)
 ### 3. Business Questions
 - #### Which partners are the most efficient at debt recovery, and what factors contribute to their success?
--#### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
 - #### How can the Head of Finance at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
+- #### What strategies can the Head of Collection at Bank X implement to improve debt recovery rates and enhance cooperation with its partners?
 ## II. DESIGN THINKING
 ### Five steps of design thinking
 #### 1. Empathize
