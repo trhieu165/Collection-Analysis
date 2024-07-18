@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6096f76f-4189-4b5e-b1a8-c188d38123f0)# Collection-Analysis
+# Collection-Analysis
 ## I. INTRODUCTION 
 ### 1. Dataset
 - #### Dataset: OS Collection Performance
